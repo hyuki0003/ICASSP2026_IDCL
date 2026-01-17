@@ -44,7 +44,8 @@ Experiments on the **IEMOCAP** dataset demonstrate that our approach significant
 
 ## 🗓️ To-Do List
 We are currently organizing the code for release.
-- [ ] Add citation form & key results
+- [ ] Add key results
+- [ ] Upload usage
 - [ ] Upload IDCL training code
 - [ ] Share pre-trained weights
 
