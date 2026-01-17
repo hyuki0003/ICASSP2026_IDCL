@@ -28,8 +28,10 @@ We introduce **Inter-Dialog Contrastive Learning (IDCL)**, a novel framework tha
 Experiments on the **IEMOCAP** dataset demonstrate that our approach significantly outperforms state-of-the-art methods, establishing the importance of inter-dialog context for advancing emotion recognition.
 
 ![Model Architecture](figures/architecture.png)
-![IDCL Framework](figures/IDCL.png)
 
+<p align="center">
+  <img src="figures/IDCL.png" width="50%" alt="IDCL Framework">
+</p>
 
 ## 🗓️ To-Do List
 We are currently organizing the code for release.
