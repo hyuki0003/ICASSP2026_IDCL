@@ -30,7 +30,7 @@ Experiments on the **IEMOCAP** dataset demonstrate that our approach significant
 ![Model Architecture](figures/architecture.png)
 
 <p align="center">
-  <img src="figures/IDCL.png" width="50%" alt="IDCL Framework">
+  <img src="figures/IDCL.png" width="20%" alt="IDCL Framework">
 </p>
 
 ## 🗓️ To-Do List
