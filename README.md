@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Dong-Hyuk Lee**<sup>1</sup>, **Dae Hyeon Kim**<sup>1</sup>, **Young-Seok Choi**<sup>1*</sup>
+**Dong-Hyuk Lee**<sup></sup>, **Dae Hyeon Kim**<sup></sup>, **Young-Seok Choi**<sup></sup>
 
 <sup>1</sup>Department of Electronics and Communications Engineering, Kwangwoon University, Seoul, South Korea
 
@@ -27,7 +27,8 @@ We introduce **Inter-Dialog Contrastive Learning (IDCL)**, a novel framework tha
 
 Experiments on the **IEMOCAP** dataset demonstrate that our approach significantly outperforms state-of-the-art methods, establishing the importance of inter-dialog context for advancing emotion recognition.
 
-*(We recommend adding Figure 1 from the paper here)*
+![Model Architecture](figures/architecture.png)
+![IDCL Framework](figures/IDCL.png)
 
 
 ## 🗓️ To-Do List
