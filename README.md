@@ -2,11 +2,11 @@
 
 <div align="center">
 
-**Dong-Hyuk Lee**<sup></sup>, **Dae Hyeon Kim**<sup></sup>, **Young-Seok Choi**<sup></sup>
+**Dong-Hyuk Lee**<sup></sup>, **Dae Hyeon Kim**<sup></sup>, **Young-Seok Choi**<sup>*</sup>
 
-<sup>1</sup>Department of Electronics and Communications Engineering, Kwangwoon University, Seoul, South Korea
+<sup></sup>Department of Electronics and Communications Engineering, Kwangwoon University, Seoul, South Korea
 
-(*Corresponding author)
+
 
 [![Conference](https://img.shields.io/badge/ICASSP-2026-4b44ce.svg)](https://2026.ieeeicassp.org/)
 
